@@ -1,0 +1,19 @@
+{
+  "name": "electron-share",
+  "version": "1.0.0",
+  "description": "electron底座",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xcyn/electron-share.git"
+  },
+  "author": "xiongchuanyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xcyn/electron-share/issues"
+  },
+  "homepage": "https://github.com/xcyn/electron-share#readme"
+}
